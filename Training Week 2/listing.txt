@@ -1,0 +1,7 @@
+-rw-r--r-- 1 jttoivon hyad-all   25399 Nov  2 21:25 exception_hierarchy.pdf
+-rw-r--r-- 2 jttoivon hyad-all   25400 Nov  2 21:26 panda_lib.pdf
+-rw-r--r-- 3 jttoivon hyad-all   25401 Nov  2 21:27 numpy_lib.pdf
+-rw-r--r-- 4 jttoivon hyad-all   25402 Nov  2 21:28 pytorch_lib.pdf
+-rw-r--r-- 5 jttoivon hyad-all   25403 Nov  2 21:29 scipy_lib.pdf
+-rw-r--r-- 6 jttoivon hyad-all   25404 Nov  2 21:30 tensor_flow.pdf
+-rw-r--r-- 7 jttoivon hyad-all   25405 Nov  2 21:31 Sql_lib.pdf
